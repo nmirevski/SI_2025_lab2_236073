@@ -1,5 +1,7 @@
 Nino Mirevski 236073
 
+<img width="1097" alt="Screenshot 2025-05-25 at 01 24 31" src="https://github.com/user-attachments/assets/ea5f6992-7062-4655-ac31-9967bb087578" />
+
 Ciklomatskata kompleksnost e 9
 
 TEST CASES 1:
@@ -55,6 +57,4 @@ Slucaj koga site se False
 FFF checkCart(List.of(new Item("Nino", 1, 100, 0)), null) 
 Slucaj koga samo posledniot e True
 FFT checkCart(List.of(new Item("Nino", 11, 100, 0)), null
-
-
 
