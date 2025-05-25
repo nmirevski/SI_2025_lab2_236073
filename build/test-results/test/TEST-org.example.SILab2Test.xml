@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.SILab2Test" tests="9" skipped="0" failures="0" errors="0" timestamp="2025-05-25T11:05:08" hostname="Ninos-MacBook-Pro.local" time="0.054">
+  <properties/>
+  <testcase name="testFFF()" classname="org.example.SILab2Test" time="0.028"/>
+  <testcase name="testFFT()" classname="org.example.SILab2Test" time="0.002"/>
+  <testcase name="testFTX()" classname="org.example.SILab2Test" time="0.002"/>
+  <testcase name="testTXX()" classname="org.example.SILab2Test" time="0.002"/>
+  <testcase name="testItemNameNull()" classname="org.example.SILab2Test" time="0.002"/>
+  <testcase name="testValidCase()" classname="org.example.SILab2Test" time="0.001"/>
+  <testcase name="testInvalidCardLength()" classname="org.example.SILab2Test" time="0.001"/>
+  <testcase name="testAllItemsNull()" classname="org.example.SILab2Test" time="0.002"/>
+  <testcase name="testInvalidCardCharacter()" classname="org.example.SILab2Test" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
